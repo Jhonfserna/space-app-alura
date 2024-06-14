@@ -1,4 +1,4 @@
-# React + Vite
+Este es un proyecto de React con Styled Components hecho academicamente con Alura Latam # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
